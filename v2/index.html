@@ -8,6 +8,7 @@
   <script type="module" src="x-keyboard-master/main.js"></script>
   <script src="./webtypist.js" type="text/javascript" defer></script>
   <link href="./webtypist.css" type="text/css" rel="stylesheet">
+  <link href="./promotion.css" type="text/css" rel="stylesheet">
 	<script type="text/javascript" src="multilang.js"></script>
 	<script type="text/javascript">
 		var multilang;
@@ -113,5 +114,33 @@
   	<p>V2.0.1</p>
     <p class="translate" data-string="PoweredBy">Powered by <a href="https://www.yadikar.it/" target="_blank">Yadikar</a></p>
   </footer>
+  
+<dialog class="promo-dialog" id="promoDialog">
+  <button class="promo-close" id="promoCloseBtn" aria-label="Close">&times;</button>
+
+  <div class="promo-content">
+    <h4>«ئۇيغۇر تائاملىرى» ئاندروئىد ئەپ نەشىردىن چىقتى!</h4>
+
+    <p class="description">
+      ئۇيغۇر تائاملىرى ئۇيغۇر ئەجدادلىرىنىڭ تارىختىن بۇيانقى ياشاش ئېھتىياجىنى تەمىن ئېتىپ ، ھەر قايسى تارىخ ۋە ئېكولوگىيىلىك ئۆزگىرىشلەرگە ماشلىشىش يۈزىسىدىن خىلمۇ خىل ئېتىلىپ ، پەسىل ئۆزگىرىش ، كۈندىلىك ئوزۇقلۇق ئېھتىياجى ۋە مىجەزنى تەڭشەشكە ئۇيغۇنلاشتۇرغان .
+    </p>
+
+	<a class="download-link" href="https://play.google.com/store/apps/details?id=com.example.wayfarer" target="_blank" rel="noopener">
+      <img class="download-badge" src="./promo-images/google-play-app-store.png" alt="Google Play">
+      <span>ئەپنى ئاندروئىد دۇكىنىدىن چۈشۈرۈڭ</span>
+    </a>
+
+
+    <div class="gallery">
+      <div class="gallery-viewport">
+        <button class="gallery-nav prev" id="galleryPrevBtn" aria-label="Previous image">&#10094;</button>
+        <img id="galleryMainImage" src="" alt="">
+        <button class="gallery-nav next" id="galleryNextBtn" aria-label="Next image">&#10095;</button>
+      </div>
+      <div class="gallery-dots" id="galleryDots"></div>
+    </div>
+  </div>
+</dialog>  
+<script type="text/javascript" src="promotion.js"></script>
 </body>
 </html>
