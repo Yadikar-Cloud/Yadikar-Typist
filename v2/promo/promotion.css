@@ -1,8 +1,3 @@
-@font-face {
-  font-family: "UKIJ";
-  src: url(./ukij.ttf);
-}
-
 :root {
   --ink: #12231F;
   --panel: #1B322C;
@@ -109,7 +104,7 @@ h4 {
 }
 
 .gallery-viewport img {
-  width: 100%;
+  width: auto;
   height: 100%;
   object-fit: cover;
   user-select: none;
