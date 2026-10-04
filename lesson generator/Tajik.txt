@@ -1,0 +1,17 @@
+## balance-words, characters-per-lesson=1000, lesson-title-prefix=Lezione
+а о
+в л
+ҷ д
+ф ж
+й қ
+к е
+н г
+ш з
+п р
+м с
+т б
+я ч
+х ҳ
+ғ ӣ
+ӯ ё
+ю э

@@ -248,5 +248,55 @@
 		"Auto": "(авто)",
 		"Hints": "намеки",
 		"PoweredBy": "Питаться от <a href=\"https://www.yadikar.it/\" target=\"_blank\">Yadikar</a>"
-	}	
+	},
+	"uz": {
+		"langdesc": "O‘zbekcha (lotin)",
+		"Title": "Yadikar matn terish mashqi",
+		"Description": "Sensorli klaviaturada yozishni o‘rganish uchun eng yaxshi ustozingiz.",
+		"Unit": " belgi/min",
+		"Errors": " xato",
+		"Auto": "(avto)",
+		"Hints": "maslahatlar",
+		"PoweredBy": "<a href=\"https://www.yadikar.it/\" target=\"_blank\">Yadikar</a> tomonidan taqdim etilgan"
+	},
+	"kk": {
+		"langdesc": "Қазақша",
+		"Title": "Yadikar мәтін теру жаттығуы",
+		"Description": "Сенсорлық пернетақтада теруді үйренуге арналған ең жақсы көмекшіңіз.",
+		"Unit": " таңба/мин",
+		"Errors": " қате",
+		"Auto": "(авто)",
+		"Hints": "кеңестер",
+		"PoweredBy": "<a href=\"https://www.yadikar.it/\" target=\"_blank\">Yadikar</a> ұсынады"
+	},
+	"ky": {
+		"langdesc": "Кыргызча",
+		"Title": "Yadikar терүү машыгуусу",
+		"Description": "Сенсордук клавиатурада терүүнү үйрөнүү үчүн эң мыкты устатыңыз.",
+		"Unit": " белги/мүн",
+		"Errors": " ката",
+		"Auto": "(авто)",
+		"Hints": "кеңештер",
+		"PoweredBy": "<a href=\"https://www.yadikar.it/\" target=\"_blank\">Yadikar</a> тарабынан сунушталат"
+	},
+	"tg": {
+		"langdesc": "Тоҷикӣ",
+		"Title": "Машқи чопкунии Yadikar",
+		"Description": "Беҳтарин омӯзгори шумо барои омӯхтани чопкунӣ дар клавиатураи сенсорӣ.",
+		"Unit": " ҳарф/дақ",
+		"Errors": " хато",
+		"Auto": "(худкор)",
+		"Hints": "маслиҳатҳо",
+		"PoweredBy": "Бо дастгирии <a href=\"https://www.yadikar.it/\" target=\"_blank\">Yadikar</a>"
+	},
+	"tk": {
+		"langdesc": "Türkmençe",
+		"Title": "Yadikar ýazuw türgenleşigi",
+		"Description": "Duýgur klawiaturada ýazmagy öwrenmek üçin iň gowy mugallymyňyz.",
+		"Unit": " harp/min",
+		"Errors": " ýalňyş",
+		"Auto": "(awto)",
+		"Hints": "maslahatlar",
+		"PoweredBy": "<a href=\"https://www.yadikar.it/\" target=\"_blank\">Yadikar</a> tarapyndan hödürlenýär"
+	}
 }

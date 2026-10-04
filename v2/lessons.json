@@ -100,6 +100,11 @@
       "description": "File di addestramento tratto da «Appunti di informatica\n libera»",
       "layouts": [ "it" ]
     },
+	"kk": {
+      "title": "Kazakh",
+      "description": "KTouch training file generated Tue Oct 04 09:41:58 2024\nPython Script written by Simone Gaiarin.",
+      "layouts": [ "kk" ]
+    },
     "it2": {
       "title": "Italiano (generata automaticamente)",
       "description": "Lezione generata automaticamente usando ktouch-lesson-generator\nda Simone Gaiarin <simgunz@gmail.com>",
@@ -182,12 +187,13 @@
     "gb":              "English (UK)",
     "gb(dvorak)":      "English (UK, Dvorak)",
     "it":              "Italiana",
+	"kk":              "Kazakh",
     "latam":           "Español (latinoamarican)",
     "pt":              "Português",
     "ru":              "Русская",
     "ru(legacy)":      "Русская (legacy)",
-		"ug":              "ئۇيغۇرچە",
-		"tr":              "Türkçe (Q)",
+	"ug":              "ئۇيغۇرچە",
+	"tr":              "Türkçe (Q)",
     "us":              "English (US)",
     "us(colemak)":     "English (US, Colemak)",
     "us(dvorak)":      "English (US, Dvorak)",
