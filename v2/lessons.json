@@ -105,6 +105,11 @@
       "description": "KTouch training file generated Tue Oct 04 09:41:58 2024\nPython Script written by Simone Gaiarin.",
       "layouts": [ "kk" ]
     },
+	"ky": {
+      "title": "Kyrgyz",
+      "description": "KTouch training file generated Tue Oct 04 11:28:58 2024\nPython Script written by Simone Gaiarin.",
+      "layouts": [ "ky" ]
+    },
     "it2": {
       "title": "Italiano (generata automaticamente)",
       "description": "Lezione generata automaticamente usando ktouch-lesson-generator\nda Simone Gaiarin <simgunz@gmail.com>",
@@ -139,7 +144,12 @@
       "title": "Uyghur (auto-generated)",
       "description": "KTouch training file generated Tue Jan 30 17:00:58 2024\nPython Script written by Simone Gaiarin.",
       "layouts": [ "ug" ]
-    },		
+    },
+	"uz": {
+      "title": "Uzbek (auto-generated)",
+      "description": "KTouch training file generated Tue Oct 04 11:28:58 2024\nPython Script written by Simone Gaiarin.",
+      "layouts": [ "uz" ]
+    },
     "us.colemak": {
       "title": "English (USA) Colemak (auto-generated)",
       "description": "2005-12-15 Shai Coleman, http://colemak.com/ . Public domain.\nModified by Sascha Peilicke 2008-08-07",
@@ -165,6 +175,16 @@
       "description": "KTouch training file generated Sun Mar 11 09:59:58 2007\nPerl Script written by Steinar Theigmann and Håvard Frøiland.",
       "layouts": [ "us" ]
     },
+	"tg": {
+      "title": "Tajik (auto-generated)",
+      "description": "KTouch training file generated Tue Oct 04 11:28:58 2024\nPython Script written by Simone Gaiarin.",
+      "layouts": [ "tg" ]
+    },
+	"tk": {
+      "title": "Turkmen (auto-generated)",
+      "description": "KTouch training file generated Tue Oct 04 11:28:58 2024\nPython Script written by Simone Gaiarin.",
+      "layouts": [ "tk" ]
+    },
     "tr": {
       "title": "Turkish (TR) (auto-generated)",
       "description": "KTouch training file generated Dec 16 19:02:00 2023\nPerl Script written by Steinar Theigmann and Håvard Frøiland.",
@@ -188,12 +208,16 @@
     "gb(dvorak)":      "English (UK, Dvorak)",
     "it":              "Italiana",
 	"kk":              "Kazakh",
+	"ky":              "Kyrgyz",
     "latam":           "Español (latinoamarican)",
     "pt":              "Português",
     "ru":              "Русская",
     "ru(legacy)":      "Русская (legacy)",
 	"ug":              "ئۇيغۇرچە",
+	"uz":              "Uzbek",
 	"tr":              "Türkçe (Q)",
+	"tg":              "Tajik",
+	"tk":              "Turkmen",
     "us":              "English (US)",
     "us(colemak)":     "English (US, Colemak)",
     "us(dvorak)":      "English (US, Dvorak)",
