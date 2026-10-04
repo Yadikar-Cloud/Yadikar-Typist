@@ -56,7 +56,14 @@ function getDeadKeyDict(deadKeys) {
 // return a sequence of keys that can output the requested string
 function getKeySequence(keyMap, dkDict, str = '') {
   const rv = [];
-  Array.from(str).forEach((char) => {
+  let position = 0;
+  while (position < str.length) {
+    const remaining = str.slice(position);
+    const mappedChar = Object.values(keyMap)
+      .flat()
+      .filter(char => char && remaining.startsWith(char))
+      .sort((a, b) => b.length - a.length)[0];
+    const char = mappedChar || Array.from(remaining)[0];
     const keys = getKeyList(keyMap, char);
     if (keys.length) { // direct access (possibly with Shift / AltGr)
       rv.push(keys[0]);
@@ -68,7 +75,8 @@ function getKeySequence(keyMap, dkDict, str = '') {
       rv.push({});
       console.error('char not found:', char); // eslint-disable-line
     }
-  });
+    position += char.length;
+  }
   return rv;
 }
 

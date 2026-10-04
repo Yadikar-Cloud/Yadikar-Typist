@@ -75,6 +75,14 @@ function highlightKey(keyChar) {
   ui.hands.className = ui.keyboard.showHint(key);
 }
 
+function nextKeyText(text, position) {
+  const remaining = text.slice(position);
+  return Object.values(ui.keyboard.layout.keyMap)
+    .flat()
+    .filter(char => char && remaining.startsWith(char))
+    .sort((a, b) => b.length - a.length)[0] || Array.from(remaining)[0] || '';
+}
+
 
 /******************************************************************************
  * Text Input & Metrics
@@ -113,7 +121,7 @@ const gTypist = (function(window, document, undefined) {
     ui.txtInput.className = '';
     ui.txtInput.value = '';
     ui.txtInput.focus();
-    highlightKey(text.substr(0, 1));	
+    highlightKey(nextKeyText(text, 0));
   }
 
   // required to work around a Chrome bug, see the `keyup` listener below
@@ -128,11 +136,12 @@ const gTypist = (function(window, document, undefined) {
       if (!startDate) { // first char => start the timer
         start();
       }
-      if (value === text.substr(pos, 1)) {
+      if (value === nextKeyText(text, pos)) {
         // correct key: append it to the text input
         event.target.value += value;
-        if (pos < text.length - 1) {
-          highlightKey(text.substr(pos + 1, 1));
+        const nextPosition = pos + value.length;
+        if (nextPosition < text.length) {
+          highlightKey(nextKeyText(text, nextPosition));
         } else { // finished
           stop();
           setTimeout(newPrompt, 500);
@@ -144,7 +153,7 @@ const gTypist = (function(window, document, undefined) {
         setTimeout(() => event.target.className = 'active', 250);
       }
     } else if (ui.keyboard.layout.pendingDK) { // dead key
-      highlightKey(text.substr(pos, 1));
+      highlightKey(nextKeyText(text, pos));
     } else if (event.code === 'Enter') { // restart on <Enter>
       event.target.value = '';
       startDate = null;
