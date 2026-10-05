@@ -1,339 +1,340 @@
 <?xml version="1.0"?>
 <course>
-<id>{e0018a0e-e5c6-43b1-8449-df479dcbf22b}</id>
-<title>KTouch-Generator-e0018a0e</title>
+<id>{af25936c-abce-428a-9474-8fb1c965ba54}</id>
+<title>KTouch-Generator-af25936c</title>
 <description></description>
 <keyboardLayout></keyboardLayout>
 <lessons>
     <lesson>
-    <id>{262aa338-372c-4c8b-9d55-095e379b0070}</id>
-    <title>Lezione 1 - f j</title>
+    <id>{7c1d375b-1006-40ce-9c1a-5ccc59600fdd}</id>
+    <title>Sapak 1 - f j</title>
     <newCharacters>f j</newCharacters>
-    <text>fjf f fffj fff fjjf fjjf fff ffj jjff jjj jfj ffff jfff fjff
-jffj fjff jfjf fjfj jjff fjf fjjf jjj jjfj jjff jfjf ffjf
-jjf jff ffj jjjf ffjf jfjj jfj jf jfj jfjf fjff ffj fjf jjj
-jfff jjjf jfj jf fj jjfj jf fjjj fjjf jjjf jjjf jjjj jjjf
-jfj fffj fjfj ffj f fjj jjj fjfj ffj ffjf fjjj jjj ffjj fjj
-jfjj jjff jfjj fff jffj jfff fjff fjf jffj jfj jfjj fjj fjff
-j f jffj fff ffjf fjff ffj ffjf f fjjf fjf fjj ffff ff fjjj
-jfff jjjj jjf fjj ffff ffjj fjjf ff fjf jj ffj ff f jfjf jf
-jffj ffff fffj jjfj fjff fj fff fjj jj jff ffff j jfff fjff
-jjjf ffj jfj j ffj jfjj jjjj fjjj jf jjff jff fjjj jjj fjj
-ffj jfjf jf jfj ffjf ffjf jjfj ffff fff jjfj jjfj ffj jjjj
-jjf fjf fjjf jf ffjj jjff jjj jjjj jfj jjjf ffff ffjj fj fj
-ffjj ffjj fjf fjjf fjjf fff ffjj jf jjf fjff ffj jf jjff
-fjff fj jjff jfjf jfff ffjf f fjfj jjjj fjfj jjff ffff jf fj
-jff fj jfjf jjjj j fjff jjf ff jjf jf ffjj jjff jjjf fjff
-jfjj jff fj ffjj ffj jjjf ffff fjf jff fjfj ffff fff jjfj
-fjfj ff fjff jjj jfjj ffj fjjj jjjj jjff jffj f</text>
+    <text>f f jjfj fjj fffj jjjf fjjj jff jfff j jf fjj ffjf jf jjjj
+jjff fjfj fffj ffff fjf jf fjff ffjf fjfj jff ffjf ffff fjf
+jjjf fjjf jjjj fjj jjff fjff fffj fjjj fff jfjj fff fffj jfj
+ffff ffj jf jjjf jf fjj jf ffj jfff ffff fjj fff fjj jfff
+jjf jjf jfjf jffj ffff jf jfj jf fjfj fjff fjjf jjjj f f
+fjjj jjjj jfj jjff fjjj jf jfjj f jjj jjjf jfjf fjfj jjff
+fjjj fff fjj j jjjj fff jjjj fjj fjfj jjjj ffff fjf fffj j
+fff jffj jfjj ffjf fjjj jjf ffj ffjj fffj j f jjfj jfjf fjfj
+jjjj f jf j jjff ff fjff jfjf jjfj jjf ff ffff jff fj jfjf
+fjff jjf fj fff j jjjj fjjj fjf ffj jfjf jf jjj fff jfjj jff
+jjff fffj jjf jffj jjjf jjfj ff fjff f fjjj j fjjf ffjf fjff
+jfjf fj jff fjj ffj fjfj fjfj jfj fff fjff fjfj jj fjf jff
+jffj fj ffjf fjfj j jjfj jfjj fjf jff fjjf j ffjf jj fjjj
+jfjj fjf fjjf jjjj fffj jfjf jjf fjfj jfff jjff jj ffj jfj
+fjjj jff fjff jfj jj fffj j jfjf fjf jjj j jjfj fffj jjfj
+jjff jfjf fff jfjj jfjf fjj ffjf fff jj jjjj fffj ffjj jjjf
+fjjj jjfj ffjf jfj jfjj ffjj j jjjf jfj ffjj jfjf</text>
     </lesson>
     <lesson>
-    <id>{ce0bb6db-b03e-4c91-a1f1-1ff88b657cd8}</id>
-    <title>Lezione 2 - d k</title>
+    <id>{076d324d-d208-49da-b899-99207079c438}</id>
+    <title>Sapak 2 - d k</title>
     <newCharacters>d k</newCharacters>
-    <text>ffkf kkdj dddj ffk jjjk dddd fkjf jddk ddkf dkkj ffdj dfdk
-jfjk kfdf kffd djdf kfdk jfkk dj dkjf dkjk jjdf kjkf jdfk
-kjfj jdjk ffkk dddk djf jk ddfk ffkk fjkf ddkd kfk dkf fjdf
-dddd kdfd jkd dfdk jdj dd djfd jfkk fjkj jdk dkdk kddd kdd
-dkdf djfk fjfk jkfd kjfj fjjk ddjj djjk jdk dd dfdf kfdk
-ddjj jjkj jdkj djfk kdjf jkkd fdfj dddf kddf jkk jdd djkj
-jffk dddj jkdk ddfd jdjj fjdf fdjd jdfd kjfj kdfd fdkd jkfj
-kjdj jkkk kkff dfd jdkk jffk fkfk dkdk djk kjjf jddd dkf
-jdjj kjkd kffj kkff dfdk jjkj fjkj jdj ddfd fkf jkdj jfd
-fjkj kkj kj djjf ffdj jfk jjd jkdf fkfd jdff dkdj dddj ddk
-ffk jk jdfd fjdd kdkj kkjk jdf dkkd jfjk kdfk kkkk dfkj ddkf
-kkf dkdf fkdk fdk fdkf fjkj kkkk fdkk dkkf dk kdfk jffk dfdf
-kkkd jdff jkjd kjd fkkk kfkd jfjk kjjd ddk kkjf dfjf jddf
-dfjj kffk dfjd dfkd kkjd kjdj dkjd jkf dkff jdjd fjkf jjkj
-dfdj kddk kfdd dkfk kkd dffk jddj djdj jkfj kkdd jdf dkfk
-fkkd fkdk kfdf kddk djfj jfjk kdkk ffdf fffd djkk dkdd kkdk
-kfk kdjj kfdd kfjj kfkj dfdf fdkk fddd fkdk jkjf jjk kkj</text>
+    <text>fjdk fkkf ddjd kkf fkkd ffkj djdk fjkf jdfd dffj kkdf fjkj
+fk jdjk kkjf djdk jjkd fdjk jfjk djf jkdj kdfd ffjd jdjf
+dfjj kfdk kdkj kdfk jdjd dfjd jfdf djfd ffdd jkfd fkjd jjfd
+jkdk ffkk fdkd fjk fdj jdff djff djjd kfff jfkj dkdd dffd
+kjfk jddf kffj fkdk dkff kkkf kdjk jfd jfkd ddkd kjff jfdk
+dfdk kf dk fdkj kfdf dkdd kdfk fdfj ddj djjf kfkf kfdd dkjf
+jkjj fjk kjdk kkkk jdjk dkkd fkdk dkfj kjkk jkjk fdk jd jdj
+djjd djjf kkkj jfkk kkjk ffjd kjdk kjjf dfjf jjdf djf jddd
+jkd dkkk fkkd jddd jdkk kkdd kdj kk fkfk dfk fdj kfdd ddkd
+kdjj fdkf jfd fdjk ddkf jdfd kfd ffdj fdkk fdkd ffkf jjkf
+kkd kdfj dfkk fdd jjkd kfd jjkk jdjj d jkfk kdkj fdjf jfd
+jkff fddf fdfd fdfd djfk kfdf ffjd kfdd jdkd kdfj kd fjjk
+fkfj dkjk kdfj jjd fdfj dkkj ddjf kjkf kjd fdk jjkj ddk fjfk
+fdd ffk dk djdf fdd kfjf ddfj dkj fddj kdjf dfjk jdk djff
+dffj kfjj djjd jdff ffkf ffdf kfkj kj ddkd kfdj jkjj fkkj
+dkf ffdk dkjd kdfd kffd kd kjjk dfkd dkf kfjk jkjk kdk kdff
+kjf dfj kffj fdkd jkkf kdjj kf ffdj kkj kddk jd dfjj dff</text>
     </lesson>
     <lesson>
-    <id>{d793740e-5c34-47b0-9d0b-4e0131414018}</id>
-    <title>Lezione 3 - s l</title>
+    <id>{984a021a-c20d-43bd-b36c-5c30b9edf212}</id>
+    <title>Sapak 3 - s l</title>
     <newCharacters>s l</newCharacters>
-    <text>ljfl lkss llf dfsk ksjl lssd ldkd skjf lflf sjkl lkkj kssk
-jssk ssdf ssfd kflk sflj fskd sjkl fsjj ldf dkjs ldkk jjl
-jjsf ljdk sdj ssls ls sfdf ddsd ddsk dlsf kfsj ksfl jlsk ljk
-jssk lkj ljfl jss jlls dljf lklk slsk sflf ffsl dddl flfl
-fdfl ssjd ssld lksk ksdd sllf ssdj sdll skdj jsk flkd ljjs
-lfjs sllk jdlk jjls dl dkld jsfl lss lfsk fds sdll sfk dllj
-dfdl sdf sjsl fjjs sdff ssfd fskk fsfl djjl sjfk fkls llkl
-jdsf flsf djkl sflf ss ksks kkjl fsls lsf ddjs sljs jfks
-kksf sjjf fsf ldld fkjs ddll sjk ffss lksf jdkl slkl dldj
-kldj sdsf kskd ddkl lsdj skkk jsdl skl lslf ssdk sskj ldks
-sss jdsk jdld ksll sdfl sffd lffs ljld fldd lkls kdls dljs
-dksl llfs ddlj fflf djsd skks llss fdsj llfj sfkd ljkd lfsd
-jlsk fkss sfdl dlkd sjjl fljs ljsl sddd dkjs ljkd jld ldl
-jdjs sljk ljjl skkd dflf fdlk jkld sjk kkds jklj lsj fskj
-dksd sdll ksls lkfk jjsd sffj dsll dkss slkl skfl ljjd dldl
-dsj fdsj kflj kslf jjsd djfs sjkj kld slds sdkd fjfl jsd
-jsdj lfjs skfj fskd llks jjfl jsfl fdds sfks ssjj jflf kls</text>
+    <text>kjs jjsj sjsj fdfs dksl sfj fjls dssd fkss flkl klls jlk
+dsjk ldk jljk sjj ddfs sjjd sklj ksdj dlll kjld ssdj jljl
+dkfs jdsj sfdf skjf kfsk fsf sljk fsfk lffd dljk ljjd sslj
+llsk fklk ldjd kfl slfd ssdd lksf fsfs jsjs jklk sfs dlfk
+sslj dksf sskf kfss jfls ssks fdsk jjdl sllf ldss ksdl slls
+dlk dksd dksk lksd sjjk sffd klj lldk fkll jkjl ddsk kksd
+lljl ljfl skjl dslj jskl sfkj kfks ksjk kjs sjsl lds kks
+flkj kdll klld sdd ljfl llss llfk lkkj fsjj flf lsfs jllf
+jjks lfjs ldls ldjk dksf skss lljj kdss l lsks jkss kkfl
+fssj lsk ljsl sllk lsfj jdlk sldj dlls sllf llkl kl kfsk
+kflj kdsk ksjd skkk jlfj djds ldld lljf klkf kkdl dss jlsj
+kskl kdsl lkfj jljs jfss sdjj sfkk jljj dlkf sjsd ldkl kdjs
+fskk dkjl ffll skkk jfdl kjsj dssd jkld jsjk sljs sjdl fksf
+fdsl lfjl ljsd jsfs fffs djfl jslf ksdj sssk ss jsff ljdf
+lff jjjs sddj lfkj kllf kfsd djlj jssd jllj fllf skjs llf
+ldjs lkld ldjj sfjl jflj sfdd sssf jfl kds sskk sddl ljlj
+sjkl djs llks ljdl lsj fjsk sjfd djs sjk skkl jjl ksss kjjs
+jkls</text>
     </lesson>
     <lesson>
-    <id>{2a4de36b-5dab-4bc0-9ea8-d7491b2654df}</id>
-    <title>Lezione 4 - a ;</title>
+    <id>{bc8ea4db-ee27-4812-aa5d-014c27f1888e}</id>
+    <title>Sapak 4 - a ;</title>
     <newCharacters>a ;</newCharacters>
-    <text>kaaa ; kdfa ; ajk ; ljaa ; fsla ; jajs ; aall ; alss ; adla
-; kfaj ; fasf ; lsla ; aff ; ffak ; asdf ; kad ; afds ; dakj
-; aflj ; kafs ; dsda ; aajl ; aflk ; ladj ; aal ; dafk ;
-alfl ; affk ; sall ; asjf ; akds ; fkaj ; lafs ; sdak ; ssas
-; skaa ; jada ; jska ; jdas ; jka ; jakf ; lafj ; dakd ;
-fass ; sfda ; ask ; jajk ; fajf ; kjka ; ljaa ; lad ; dffa ;
-ksas ; fasj ; ljaa ; lfda ; sass ; dakf ; ksak ; lsal ; fksa
-; adfd ; aasj ; kadd ; afjs ; adsl ; ldka ; jdfa ; safa ;
-kkaf ; kjak ; akl ; ffla ; dsak ; aasj ; adla ; ddak ; kdad
-; asjs ; lffa ; fkfa ; dfas ; faal ; adfk ; dald ; jfsa ;
-fsaj ; dfja ; jak ; jkla ; dkaf ; slsa ; jkal ; djka ; djaj
-; kakf ; flas ; ssa ; adks ; kjad ; aksf ; sak ; faff ; kajd
-; lask ; fjaa ; assd ; dkla ; fsja ; ajjf ; sdal ; kadl ;
-akf ; llfa ; alak ; laaf ; ja ; ldla ; sdsa ; daka ; llas ;
-akdl ; sdsa ; aakf ; kaas ; skaa ; dad ; adjf ; fkda ; jaks
-; sdla ; ffas ; asfd ; saaa ; safk ; af ; sadj ; kasa ; kalk
-; dkaa ; fal ; aafj ; sass ; kfda ; allf ;</text>
+    <text>ald ; asks ; llsa ; sjda ; djaf ; jkaa ; dfaa ; jkad ; fasa
+; aljk ; safk ; ldka ; akkk ; faak ; kaas ; dasd ; kjak ;
+fass ; affj ; aksj ; ljka ; kdaf ; akds ; lsaf ; kfad ; fas
+; flja ; dkak ; aask ; llsa ; dksa ; adaf ; alaf ; afaa ;
+addd ; jlla ; klas ; dask ; aal ; kasf ; aajl ; allf ; slaf
+; ffa ; sdsa ; llak ; llas ; afjk ; ajaj ; ajaa ; jlla ;
+fska ; ssaj ; dajk ; flal ; sakk ; daj ; skja ; kkka ; lala
+; sdsa ; jfaf ; asj ; dadj ; fsfa ; kald ; sdaf ; dsaa ;
+fsja ; afsk ; aadl ; ssla ; sfaf ; aksk ; jsda ; ajla ; ffa
+; kkaf ; jask ; jsaa ; sjaf ; llak ; ddad ; fad ; slda ;
+jdka ; ddka ; adld ; ljaj ; jjad ; ssfa ; adsl ; fajd ; sssa
+; kaff ; kaas ; ads ; adlf ; lsak ; fffa ; ajdl ; ddal ;
+adka ; jlaf ; ddda ; kkka ; kjal ; ajlj ; dsas ; fdsa ; afjf
+; akl ; jads ; askf ; kjas ; ffsa ; ksfa ; laa ; daak ; afsd
+; ddaa ; fjda ; al ; affd ; aafd ; sadd ; sdla ; ajkj ; sfas
+; aksf ; jksa ; kfal ; ajld ; saaa ; akds ; fajd ; ja ; lsaa
+; dakl ; akfl ; aaks ; ldla ; ksad ; aksa ; asda ;</text>
     </lesson>
     <lesson>
-    <id>{42c4e5f7-9eed-420d-bb40-49844b8dad2b}</id>
-    <title>Lezione 5 - n t</title>
+    <id>{1bf28d24-0427-4aad-9138-9f0eb235ae08}</id>
+    <title>Sapak 5 - n t</title>
     <newCharacters>n t</newCharacters>
-    <text>atkk lajt nna ; jdnf njan dnnt ; ldat stlk nkn ; ttsa nfjd
-nsjl ; altl ftfd nsff ; ttsj nfln kntl ; stas lnfd nsdj ;
-daft nnsa najj ; jfnl fjnf tas ; aknk tasd njks ; lst sdst
-lfft ; snjn knn ndks ; dfdt nlnk stas ; dtlt kfta ltfd ;
-lltd nfaf tas ; kktl fjtn dtn ; tkkk dsjn fsjn ; tdkf lnlk
-jntj ; nna jatf nfna ; ktlt faat annd ; sjtd dfnl fajn ;
-knsf tskk dts ; ftla atkn dknn ; ansf ans dtss ; najn tlkt
-kdtk ; dnja tltd dtkn ; snsf dnsn jat ; dnsj fftj nff ; tlns
-tll nafs ; latn sfna jaln ; fffn tdkt dtjn ; atks nsdk njtk
-; ndld tlff klfn ; atla nkf tta ; ntjd asnd fdnf ; nnff kljt
-tktn ; njln fast ktlj ; jlan sdnl stss ; stkl ftdd ttln ;
-tkan dnsj ddnd ; kfna fata nttt ; dnaj dsjn altk ; ftka ltal
-sltj ; ttsa dnff nnfa ; dfdn tla ndlk ; kjtn latn saft ; jft
-nfnt danj ; dtta nltj tfjf ; sakn jsnd kjnt ; aksn fkn jtfs
-; lnjt tttf tff ; afnf lftf nnsn ; ajna jntn ldna ; stdk
-dftl knnn ; st afkn tlak ; aaln saln dtln ; fstt jkkn tdal ;
-fkdn dats anjf ; nttt atfa dfdn ; ltdl djn jats ;</text>
+    <text>dfnj snnt ; lnak jktd ; nlfs nsnd ; tskd satt ; fnd tkkd ;
+tkta nkla ; lfns aktn ; dtls jtnf ; afkn ntkd ; dnal naka ;
+ktsn takt ; kjts atf ; nnds alnl ; stnj ftsk ; tdln sdtd ;
+tlad anda ; najl ldnk ; ljtf ndjf ; nnfs nad ; nsjl aatd ;
+nldd stnd ; fatj jtsl ; dfta tllj ; tdjt kjlt ; fftf nasl ;
+nnkt sft ; dfta tjna ; tdjs tadk ; nlfl ntlj ; ats nfnn ;
+sfnl taj ; tnnn adfn ; sknj sknt ; ftkl ftsl ; lkln lkst ;
+ktkf adkn ; ltaf sndk ; nstk nttt ; aast sktj ; ajnk anad ;
+ttnt fnnt ; dafn fnnt ; sltj n ; nttl nsas ; ltaf sndk ;
+ntkd taka ; tsak ands ; nsas jnls ; njll kndl ; sdat fdjn ;
+fank astf ; nldn ndtn ; dfnf tflj ; ffnn nlss ; ntdj nktd ;
+jaln dstn ; ksat tjjt ; jfln kttd ; lntl jnds ; annn adtl ;
+ndt tnfn ; nn kslt ; atfl atsk ; tnan nl ; ktns tlnn ; fnaa
+lnja ; sskt jknt ; dtlk tnfn ; ndn dtss ; jdjn ftlt ; dt
+fftk ; ksjt fjtn ; taaj dtaa ; jlkt dtjn ; kstl natj ; addt
+nkad ; ftnd aana ; fdtf njt ; lktf dsnk ; tlk kkfn ; adkt
+knjj ; ktnf tsjd ; taks adft ; nffd snta ; fftf sdtj</text>
     </lesson>
     <lesson>
-    <id>{08367319-0f96-468b-bd80-1af974f68d33}</id>
-    <title>Lezione 6 - r y</title>
+    <id>{4697b7bd-6aed-4017-84d9-eb2b50b802e1}</id>
+    <title>Sapak 6 - r y</title>
     <newCharacters>r y</newCharacters>
-    <text>sldy rafr ; drnf tyly ; rnnr rtfy ; aay srrs ; rntn rrk ;
-ndfy flyl ; lyaa lkrl ; snrd yfar ; rdyl sdly ; fsrn jakr ;
-lyyl dfjy ; lyky kyad ; rnrn ydff ; rrjn syd ; trrd ayy ;
-lrdl yfk ; dya tyjt ; yanf fkny ; rtrk rnna ; arll yrnf ;
-jydj rkkd ; yyj nlny ; nyat aykj ; kjkr fry ; jyak fnjy ;
-ldrj ryfs ; njlr ytda ; rkja lrkt ; yfkr jyyn ; kfy llyr ;
-rkjs rall ; lrt rrsj ; rrns nark ; rakf yjfd ; ynf rjjy ;
-rkfn syyy ; ytsl rdty ; yran aylf ; rkas jasy ; drfd jsar ;
-adr ytkf ; jdyt tljr ; ljdr tjyl ; anyd rjln ; lafr tyyf ;
-artd frnt ; ynft klrj ; tjy arrr ; ksry drj ; ynll nsdr ;
-rdnt dytf ; ytyn nkya ; jylf sras ; yknd trkt ; kyls yntd ;
-dyjl ylkn ; kryk flsr ; njdr stty ; srsk ssy ; ksrt frkk ;
-yfdf yryt ; lkrj kyyk ; arrd dyjt ; ydaj ldys ; flyd rynl ;
-kayr jrsy ; sra dr ; aktr tsrr ; dkyj rfn ; ttyy lrfa ; lrsf
-tylt ; jlyd kyyy ; yttr srtt ; llya rkyl ; sdry frjr ; ysaf
-jfyf ; ntlr tdjr ; rkks rdfn ; dyrf rsjf ; rdsd nrdt ; yrjs
-rffj ; rslt ydyl ; nyny lsy ; kdsr afrs ; ftly tsyj ;</text>
+    <text>ffys ydln ; dsyy ayyt ; yjns ydta ; ryly ynky ; ytst yfrn ;
+dsrl nrn ; dtsr yykf ; yslt nyrf ; ndyr arna ; ftyj arfd ;
+yrj raya ; jyan nnyn ; darf ajrs ; rnkt ykya ; rayr lfyl ;
+synj jfsy ; nrnd rsrs ; say ksdy ; rlyj njlr ; rstn rdas ;
+rfnd yjdr ; fjyn aldy ; rysy lrtn ; fydy rjnl ; atsr ytjy ;
+dyky sdfy ; tyjy srkf ; yrdy kjyr ; lrkl lrls ; nytn kyan ;
+afyk jfyj ; nrrt dlya ; tkrf lsjy ; nrl ysaa ; jral jrtn ;
+rlsj yjjd ; dryf rnjf ; drd njyr ; arnr anyj ; rftf yfry ;
+dynd lnyr ; rakl lnty ; aryt srjy ; yjda rrty ; akyf sady ;
+ynnk yfrd ; dlar layy ; rsly arra ; yfjd yffj ; ltjr yanl ;
+jatr dtry ; fljr jskr ; yydt addy ; arnr rdld ; tsdy rltk ;
+kyan ttrf ; krnl aynk ; ynla sary ; ytnn ydds ; fsrl ryr ;
+sasy srat ; ystt aayf ; rfy rlrf ; yfsn yfkf ; ntyf snnr ;
+lkrl taya ; rjja nyts ; yafs tdya ; ddyf nyjs ; tsys yjsn ;
+sakr jarj ; ryda ynyd ; nynn jrjd ; rljt asyj ; nsrf ykdf ;
+yyld drf ; nrsd jrsj ; fdyr nlrr ; rfkr sjtr ; srkk ddy ;
+frkk ynnn ; tsya nrlk ; tynl krr ; dfly nfsy ;</text>
     </lesson>
     <lesson>
-    <id>{41221bc1-f088-41a5-ba68-7a947bb25940}</id>
-    <title>Lezione 7 - m e</title>
+    <id>{80bc096d-cf97-411f-9a2e-89670c3164af}</id>
+    <title>Sapak 7 - m e</title>
     <newCharacters>m e</newCharacters>
-    <text>enkk jjma ; tymf ymkj ; keky mste ; afmk tjey ; efja jrel ;
-sker jkmy ; emsj aymr ; demy rdee ; esrj mlkm ; aaml mely ;
-dkms ejja ; myk ejam ; ayse kmsr ; dtam mfed ; ryea nkem ;
-mjnk eks ; falm kset ; mdjm rlej ; jrfm msfy ; sjfe enem ;
-ejae mmdl ; nmd nnmn ; elly ejef ; endy erss ; jfre msmf ;
-tmty ejt ; fern mrtm ; mlrj fyle ; rfne ejlk ; mrdk ney ;
-kksm jmdf ; esjy eaye ; jfke eemn ; eslt aelk ; tnef eakr ;
-nrmy lmrt ; deks jkml ; dyae kmnt ; deky enmm ; mdyf ntmk ;
-kaam ajek ; lkma fmyl ; myya aeyn ; ekjr mrks ; kmal mmdj ;
-efdk tref ; mlea mjmm ; rsjm mfy ; frej estj ; myte jrdm ;
-dlmr myaf ; ntea ysmm ; jmae stre ; lmfr dnkm ; tjml mmff ;
-mrnn mdse ; mkjn mkdn ; yje mlyr ; rrms mlam ; raer sfkm ;
-eysd trmy ; fmmf tnne ; mdny reky ; mjj mtnt ; smef rmat ;
-mddl seta ; kmm mesk ; ammt tfek ; kesn mrrk ; efte tjne ;
-yeey dsmj ; kmjs dkfe ; ayel nrey ; mtjk mjns ; kaym meld ;
-mdrs senf ; mnnd fdea ; kemf tetf ; tela tker ; mjse smfa ;
-symt afmd ; ane mlfe ; fnme meya ; fees snkm ;</text>
+    <text>lmlk mydl ; mjld eyad ; drse tejd ; tret kmne ; ssme ldfm ;
+amea enr ; eted djmr ; lyae ert ; yye etkf ; mtsj fttm ;
+ekat mrlk ; feet efls ; jkle srle ; rlea esja ; majy nffm ;
+mjya rjdm ; nmfr ymns ; lmmj yjye ; esdm mydy ; dmyt mkkl ;
+arrm lmds ; emjj kym ; anre fmdd ; atdm mkjr ; aeyy mkfj ;
+yamr ymmy ; yeak kmay ; meln aelt ; eall rdne ; rley mym ;
+ejdn ttde ; krek ltml ; mrnk ymss ; aeat mrrd ; enfk rtef ;
+yemd fmrm ; ajse emla ; admj letl ; mnlf eydr ; jden smda ;
+emmf mdtd ; nake fyre ; rjae ffmr ; yktm eydr ; etjd ldet ;
+ytfm errm ; edkk ejdm ; mejl nmea ; mtsk majd ; ssem nesj ;
+kesr yeme ; lmmd kejd ; edjl ymtm ; reae ektj ; klfm eejj ;
+jyke flde ; endm klke ; mje mefa ; dede ejff ; fmrs rmat ;
+rfte detl ; ssek dkmk ; tfmr lkmn ; etdy mytn ; rede skmr ;
+kdtm yrtm ; samm emfj ; tesd mafj ; easm jnam ; afma jsmn ;
+tfmm efad ; fdee mljt ; nmsy lmje ; myyd fltm ; enkr tser ;
+ejm jmne ; rmys mdtl ; mjdd mssl ; kkmy trek ; edak eddd ;
+yyet nnsm ; tsed yrdm ; deaf mjtr ; rlkm dfmr</text>
     </lesson>
     <lesson>
-    <id>{040098cb-69d2-4822-956a-d11a11feda61}</id>
-    <title>Lezione 8 - h o</title>
+    <id>{62fcfbed-0d6a-487a-b38c-86242efdd5bc}</id>
+    <title>Sapak 8 - h o</title>
     <newCharacters>h o</newCharacters>
-    <text>mnjh enos khns ; lrhf hajt yhah ; rdon kolf solo ; rojt hft
-hhre ; rshj kokk faol ; loka otry rlhj ; rash fmro ordn ;
-koye yelo hoem ; lehm kofy ylhh ; flyh oln ekeo ; rfhh hajd
-nmeh ; fmol efrh hamd ; ddhl shdm hnnf ; hodt eoek dehs ;
-meno loeh ykhh ; anhh knhh dhth ; kfyo rjnh ojad ; oedf mdah
-hysf ; khyo ohtk toym ; dhdo ksso eaho ; hkes oloe thrh ;
-hej fosm tofa ; jayh llto kyor ; yhkh kyhs lhdn ; shfr fjhl
-dhty ; tht eojm hate ; tfoj okee jneo ; ojm fdho hkst ; jeos
-dahn lfhf ; hjkn ahyn hatm ; odrn ofam roda ; hhjf ktom joak
-; sfso dhfn ejyo ; nsyo rmjo ykmo ; ahro noos mteo ; shma
-tsof sfno ; yhtr fdon aajh ; osld jaof shft ; ykot oyal jhjj
-; ysao hehe htry ; aoky loly rjhk ; tsos jamh ornk ; orld
-jho oko ; dhh yold ronh ; odro aldh odjo ; jsdh kkoa ond ;
-lkhy mhym dojh ; jons rahl ykeo ; lhte off otay ; olot rofm
-hhrd ; oasn jjjo hfla ; sfth erdo tnoh ; toor ndh edhj ;
-taho hjlf fhrf ; ohdd hesl oay ; ahjd rkhm foha ; rhn lorh
-khom ; loyf oast mhlt ; koee hkoy monf ; hooh srah</text>
+    <text>dtkh toar ; rsso hlem ; jsht hmfo ; hrhl dlhy ; eedh jdfo ;
+odnr tjto ; sony kyfh ; olkm rto ; mhfh lhel ; oklr nosm ;
+hhon ktsh ; hlff hnla ; lrno rjjo ; myth hsky ; rohk tolr ;
+hars ehey ; hkhh ammh ; mhjr rhfy ; hnhk yrhm ; noyj jdjo ;
+hejr eohm ; ojtm hskm ; hlak nooa ; orlm ork ; ohod hale ;
+eoth joyn ; ksyo frjh ; fhaj hjjy ; hrnd soko ; ljoh yjok ;
+ofrr flro ; oytl jyrh ; jajh joy ; honm hle ; oefj rhka ;
+foek hjyo ; hktr ahnt ; onot yyhe ; rok hrmn ; yhry heak ;
+sfho hlky ; atjh yfhl ; ofhm htna ; rros enhy ; lhon jhdj ;
+dah oytl ; hmfd jofl ; romo hnym ; olyj nyno ; kyoh hoon ;
+mhjo eeha ; hlnh shll ; fhyr hesm ; hskn hrma ; thoy ofsa ;
+tdhh rhdy ; doro doym ; jtjh lodt ; ero sayh ; emsh tdlo ;
+shkt nshf ; fahe otre ; ykoy yoll ; ryoo koe ; norr kfsh ;
+eksh yody ; ereh yfhd ; mhht oame ; hdlh hdms ; nfoj dhhl ;
+shjt hdsy ; rmso tdhn ; rjos krhy ; hoja ordd ; dmdh kojy ;
+ahhf hmfh ; toea rfok ; elmo hhhk ; mjhl kohh ; hnlr fykh ;
+hjdy ooky ; haya mnnh ; yhk dnhk ; kdhy oorn ;</text>
     </lesson>
     <lesson>
-    <id>{92d220f6-64ad-4d51-9355-251b4325e3c1}</id>
-    <title>Lezione 9 - g u i</title>
+    <id>{6f1263d2-9dca-4832-a5c9-c1c3a6a4c6d5}</id>
+    <title>Sapak 9 - g u i</title>
     <newCharacters>g u i</newCharacters>
-    <text>rgs isft esus ; shtu uosd eurt ; leij siks iemn ; ujla utnr
-time ; mdeu luio fyiy ; iyad lrul slis ; tfi uahd uyfm ;
-hhhu fei uime ; ltul ygmf toih ; iumd enua elut ; fhgg rit
-ijin ; kinr amue jhuf ; ufgi ygjn ogue ; gkgu mgus ojeu ;
-gri ukha dise ; gdam rhgl hsii ; nsai jjgn sygl ; unla ouya
-ujst ; gdhd gemg utus ; ujfs odus mamg ; hgmy alhi furd ;
-didf gfai kgdn ; dgay uuoh rlrg ; iead ngus imoi ; duer iyut
-eygm ; inhd nhhu riin ; fndu gjtd hnsg ; naik nukf fire ;
-ifns iuos rjei ; trgd hjgj duja ; ghms kkuk ggkf ; tfkg aluk
-imuh ; edul gkug ihuk ; jtdi hiyy umle ; oreg yguf hjhg ;
-sruf nhug difs ; iajo ngeg mouo ; ngdo enut umjf ; omgu efdu
-jdis ; iakk glih fuaj ; hdyu ogmu ludg ; sumn tgii alru ;
-egti tiym tjgm ; yhdu muua isrm ; ksgy uym gljh ; timr niyd
-ikkg ; yhis jigg eigo ; uygy rgla lagi ; ujyj sgoa yagi ; eg
-au jodg ; rgnd mghs kgfj ; suug kimi tiyt ; gjny uull ogka ;
-ieot oaid imjm ; ifgs gj gtau ; lumg unmr nltu ; fujn slei
-yrgg ; rryi oush ijs ; ogso skhu orgy ; hhim ngd</text>
+    <text>fris nlih dgej ; ithl oajg ilme ; diaa tgue iaii ; ntum ooir
+fuai ; slki sujd ukug ; imdm aghs egya ; fgnf dhgk jrfg ;
+fgmg ikhr suok ; kfti jeru nugi ; ugen juuy lkkg ; sfji lsiu
+juio ; gfhi hinf ndyu ; uogd otih rtmi ; aitl knuy houl ;
+sfiu dfsu gtfd ; gjff uylr sjid ; gdrs oosg nhiu ; tgyf uffo
+auji ; ujdk rulh idkf ; yurl likm dyau ; lmin sgij misk ;
+goal fgyl lnou ; jgho ffia rmmi ; ukoh naun tieo ; meu iskt
+rmu ; juak tgjn yiai ; ekia dgas ikoy ; edhi rijo dggj ;
+afui gmrm tgni ; gnea gtts iefy ; fygo ide iyjh ; utr onoi
+kggm ; tsgt ieos gogu ; hids ygyu yyiy ; ofil nosi ufah ;
+guos lyig mour ; ukdr jnua idla ; urfm sghe gfke ; iand soii
+niyr ; okgf rduu gmdo ; usne fied lfdi ; fgnl edhg ujaj ;
+yrik mfuu tity ; agkh jegd jmmi ; iemk loag guyf ; jgrd kiyr
+mujk ; gogt nosu jgoo ; ltdi gha udmi ; rniy hrei tuds ;
+rigl uyes muau ; emlu kgim eeg ; gief sged ainj ; nujm geei
+hfhu ; ahgu audg ruok ; gjfn gsrh usgy ; tduu dhud jmu ;
+hdsg ilgk fgm ; agly uyus ihhu ; iisi ioal mdgg ; agyk</text>
     </lesson>
     <lesson>
-    <id>{bc32c0d3-5379-4ff4-afc5-747b54aab410}</id>
-    <title>Lezione 10 - b p</title>
+    <id>{d48f352e-0be9-4e3a-95c8-e826bf675be8}</id>
+    <title>Sapak 10 - b p</title>
     <newCharacters>b p</newCharacters>
-    <text>pyts updp ; lbaa bmpb ; eabt mrbe ; bbph fbst ; pkhn hgtp ;
-bmjj beku ; hlpt enbp ; abyg mlup ; adbm lpbu ; lbme abtb ;
-peie kpek ; jbds pkrj ; fybm eemp ; kobu obge ; sjsp ybfm ;
-gbnp mypy ; fbsh hbpe ; pesa ytpl ; pjfg trpb ; sfbi jfpi ;
-burg funp ; rgop hbfh ; phtk aopi ; pank bjmm ; eprh kpto ;
-fihb jpgr ; pkty btdn ; umbf bynu ; iapl fsbp ; pisa jjap ;
-deb aapo ; amob birs ; udbb ynbd ; bmsy pyrn ; phss bpme ;
-arbt gbnk ; mmbo plgh ; bpsh tbtj ; aupb bmte ; gilp tepb ;
-blab kbmt ; bnil agpb ; sppo jgps ; jpkt tpgu ; pifb epg ;
-eebp lblj ; sypd hyby ; bdgd dpol ; fgyb knhp ; hpgg aiap ;
-gymb upog ; dbhg pmpg ; uppe sjpk ; alb dbsm ; tsbt tpmm ;
-hdbr paep ; dbku jibo ; sgtb ibk ; igbr bmjr ; ghpn aptf ;
-mrbo kikp ; bjoi kepl ; jbuo bytb ; ofba bsoh ; aogp opap ;
-pjto jbyj ; bfrn nlob ; kudp lppp ; paip bepj ; omhb bmyp ;
-lypu oebl ; nenp jrbj ; jibs drph ; gbru bfst ; dfpm hpjr ;
-bpah ffpp ; ibiy skpi ; tlkb kgpl ; uoap bnay ; byps itpa ;
-pdy taap ; aepn iipr ; asbj pdfh ; bakm</text>
+    <text>bprl bgkg ; phgg mbea ; lbsn btkj ; inpm mblj ; yofp peoj ;
+eahp lspk ; dpsi mspn ; rubl hbju ; iimp ebe ; tbdu ebts ;
+msby ebyg ; bdf gfkp ; kipf tijb ; ubdm ndtb ; rgsp byas ;
+gayp hnpb ; abhf mlkp ; opup dppt ; iipa jhyb ; lubi fbdr ;
+jpls btyg ; pfsy oipl ; ylbt eibr ; udkp bkml ; yyep nspn ;
+lkp ypbd ; rhpb fpon ; pimf ebsy ; yhpn nlpn ; igbf urbb ;
+booo bgot ; ppou abdn ; bkk pey ; fbty sbrl ; brut opam ;
+tlpt yrbt ; tybr klkb ; eojp npya ; rrnb fpoa ; jpfn bubs ;
+hhkp nybg ; pbfb beju ; ynrb prms ; beum nkbl ; gkpf nabg ;
+pmib mipa ; gbpy plnk ; enmb bbla ; pfug udbs ; kdpf nibf ;
+jpyi tkbn ; beam tpoj ; bltg uspg ; ogub dpsr ; sbni dgpk ;
+byba elgp ; grby urbg ; lpdu pjno ; aiub ybbm ; beon jpre ;
+utps sjpu ; jnbe pabe ; meib shp ; ipmu uddp ; jrpa bltf ;
+tpyf pgr ; bgln gpot ; bolj lpid ; bnui apyn ; kdpr ulps ;
+hdb puoi ; bffh pfbl ; irbp fpoe ; dpof gpkb ; apgl bmre ;
+nuyp lhpm ; kpoi pfbi ; ikby apib ; puak edba ; tusb guba ;
+ytbh iayp ; orpj kbfm ; rfsb iopg ; kbno ogps ;</text>
     </lesson>
     <lesson>
-    <id>{0a7849a7-dd13-4abe-b236-a33bf85db033}</id>
-    <title>Lezione 11 - w z</title>
+    <id>{3bab3545-12e5-46a7-9a26-4b14c3f72575}</id>
+    <title>Sapak 11 - w z</title>
     <newCharacters>w z</newCharacters>
-    <text>emdz ozw ; irwi zhpa ; kwmb ipz ; rwtn tszy ; siwz waye ;
-wjku kdjw ; nwhy rzkp ; zyjb ngiw ; eyjw njzm ; phwo fzmj ;
-fzp ozmz ; swba uzyr ; dzhp hyzm ; aurw nmnw ; llez mzbf ;
-whfy swtr ; sfnw ozrn ; sbze htzi ; gjlz wykl ; swd fwkp ;
-nfbz zfrr ; punw twbp ; uaws wgaa ; zkde bwzz ; aztt efwb ;
-wmul wmgs ; hkzk uuwo ; ezkk mzlk ; tgwp wsfn ; ngpw trzr ;
-enuw htzf ; timz jwzo ; wime ikbz ; wyil twur ; pkrw nlwn ;
-ylwt pmdz ; ajzz espw ; skow luzk ; zsmi uaws ; swss fkww ;
-yabw fzak ; wwfh rbsw ; zzu jswf ; ljiw wmfp ; ymaw zbri ;
-dozh wula ; wwee twbk ; zulk rprz ; zgob oimz ; aztm lyzs ;
-weos ksfw ; eblw azti ; zjom dwyh ; wwia rzga ; brzs utzy ;
-mjlz wdps ; lswm zbza ; soyw zone ; gawp npez ; sglw fppz ;
-pzhg jgoz ; dwbt gzss ; owbw yuwh ; hnwr ppwk ; lazo joiz ;
-hlkz uejw ; hewd ueyw ; rwey uduz ; mprz zmlk ; ewje rwjd ;
-ohzf kzsr ; yzau lejw ; wfbl arz ; rlwu dllz ; dznk kwjt ;
-nyzk uyyw ; mlzm tbzj ; wmee tfwy ; yrwb nfjw ; tfaw stzf ;
-ggyz bwwg ; lniz pzhi ; zajl hhwf ; ksyw wezf</text>
+    <text>bzdf bzin uzha ; fnwk gnaz wnpn ; wtwk mzue nwse ; zdmz wezj
+kpwr ; wdtr kgyz zhat ; ozrp igzi ngwr ; aizs wegl wokl ;
+ljlz aamw weds ; awna wkn zzwf ; arwj kwrr ouwu ; phow sswz
+zppw ; wzik uazz hwfa ; wngh zbtk bnwd ; nnws whb mkfz ;
+rimz zytb zdbf ; akwo zizl zjk ; iffw hhzr uzra ; nzuf dzlw
+wdss ; bglz bawb azfb ; rtzs zbdk wndy ; zdmb puwt szkk ;
+kfaz ulew wehj ; iwwh djgz boyz ; zuuw npzm iowh ; mwty tzoh
+zeya ; zrkm wdju azl ; azai nkkz yfzy ; gtzi zwow wbun ;
+tutw bwhh rpjz ; onwm zlgt uibz ; beyw pzrl zogl ; lswp kuuz
+pzgp ; ozbe zbge zmfy ; zbfi jztt opzr ; onfz spkz oztw ;
+lywd whpp lzwd ; ztdr witu ozeh ; yduz wpfu wbla ; wkkr nwhm
+jezp ; mggz ijzp sozn ; peoz dbgw ohzh ; kzfb endw mwkk ;
+wmmy tdmw wwos ; eufz wtlp ftnz ; zyyi wnjw hukw ; lzdm ymgz
+sofw ; hwhp yjrz dwdd ; ibuw bwrz pwdi ; rzhl zntz wahz ;
+nilw znwu bslz ; szjb tynw wbej ; syaz bzhu ywfl ; zgse ssiw
+lhsz ; uzga wput kwdz ; woih kjwp yrgz ; kzou wouy mzss ;
+wkwi ijwz kzsn ; whyt pswo wkll ; dltw aklz krez ;</text>
     </lesson>
     <lesson>
-    <id>{91034f1f-8a9d-433a-8c76-16ae7054396f}</id>
-    <title>Lezione 12 - ä ö</title>
+    <id>{5dd70c5e-8c86-4223-b9cb-3038f3e47850}</id>
+    <title>Sapak 12 - ä ö</title>
     <newCharacters>ä ö</newCharacters>
-    <text>äuza ösrh zoäö ; dgöö yöik ebäz ; lduö äpäz öhfk ; ogöz lshä
-ztön ; hiöä häro keaä ; diöm uööp zbör ; ttoä dgyä jägi ;
-äppd aöfs ämgl ; ärrä äzfw möbm ; ädii iöye gghä ; päbd uäuw
-nbäu ; ygö räfp mkuä ; löim anöj ähfy ; baäi nfäj öbkf ;
-mzöd töif nraö ; awwö gdäl psoä ; ömgs osiä öwjs ; jäsz onöy
-ptöp ; iuwö fäyo hgöh ; ätöf rözj äzsr ; äzpö hözö lönn ;
-äpfo ysög tzoä ; gälf öesm öogj ; äözm nrön fömi ; aömy ääsd
-ahäu ; trök fäuj äszä ; öglu äesw äfop ; unär äkf srdö ;
-äbzf sköj öhwe ; phuö löi iöua ; dääg äjdn tuög ; gälz hjzä
-uabö ; öäin oöip ykpö ; ägdh döäw läwp ; ösdn ajäö änig ;
-äilg ökrm äujj ; nzuö öjth trsä ; eäzä kiä paäy ; lötf köto
-äbwo ; ulsö säew öjtd ; pyöl äfbo öjad ; sdöw yyäu nädi ;
-nsöa öuel ägkb ; önrm zllö jööa ; whaä jöir duää ; bäzw öbhf
-änad ; nörd äuuo aziö ; ämzj röaz näeö ; späp näts öeöi ;
-tzöf öudh böww ; öilb bfwä riöa ; öswu ghtä ymzä ; öwäö äkkp
-lröä ; ököo myäa jläl ; kähm näbm äjhh ; uöoo höhk möe ;
-stnä jlyö öizw ; mjeä yäti iöwn ; oföe duäl äyti ;</text>
+    <text>ewöw äjnt ; jsöu lyöz ; höiz zäz ; öfdy möjr ; muäo loäy ;
+öozl böuf ; äyit odhä ; öhlu ööas ; nöbu mädj ; dfäy öisy ;
+rgäg päzi ; öotm iäib ; eszä zöky ; änls äegr ; rähu piyö ;
+äozp zljä ; zsgä iökg ; nöis özgj ; iyök fröb ; plgä pjök ;
+äärw iröo ; näfu ömpp ; nööb yiög ; äydr bsän ; ojnä dtäj ;
+ähgr eyyö ; ähää kärd ; idtä bäzj ; äesf ölea ; ötal bkää ;
+äebz kjsä ; uukä ölhk ; äfrz rgmö ; ohöa röuh ; pörr gädw ;
+ypös mdnö ; lamä piöi ; mö iötb ; mypö däbs ; yjäg zprö ;
+oouä rmwö ; uzöt äfsh ; yzäu bäzä ; äpl öikh ; önkp ajpö ;
+pöjj öewg ; mbäh äzät ; yuäh jöök ; äkfr döby ; wlöö öwrz ;
+äogn eugä ; kmöj pywä ; jäuz yäyf ; iäwo uäei ; bäbb uepö ;
+yäpz ujök ; swuö häop ; rerä oodö ; njäk jhpö ; öewa öuet ;
+öoyp ujuä ; wemö aöja ; göäz lyöj ; zrwä kukö ; yaöb äöru ;
+äeys kbdä ; kltö döäj ; ösfk öuus ; uöip öögu ; döme töud ;
+äeöp fjöä ; öpnt äorp ; oämi jfän ; enpä äeda ; ntyö nuäd ;
+fmäe mawä ; ämdg öäef ; oiön äöös ; dtöz zzäm ; öjew beuä ;
+dgeö tsös ; örlb ybäg ; ömrö zözn ; äjfn</text>
     </lesson>
     <lesson>
-    <id>{a1926450-0406-483f-8391-45908e8b9b58}</id>
-    <title>Lezione 13 - ü ş</title>
+    <id>{f335f2f8-e8ea-49c7-bfbd-e00db9a1e093}</id>
+    <title>Sapak 13 - ü ş</title>
     <newCharacters>ü ş</newCharacters>
-    <text>nonş şgtü ; üdyr şuş ; käşd aekü ; üeül yüöü ; yrüö bhwş ;
-autş ütmş ; üoşü rnfü ; şiaä sjşş ; şgsn yşil ; ozyü puşy ;
-oüüa weaş ; tliş üus ; übyä şrde ; dzüd sefü ; mşsj müyj ;
-gküs ppşs ; öşdo übfu ; bşoh ühue ; wüii äykş ; nniü büüw ;
-ldgş ärpş ; übor sşpu ; smüb äzşe ; ükng faiü ; wüwş wübd ;
-jpüd uşsh ; ügsz dşäb ; üştr eüra ; üşzb iühy ; mnüs osş ;
-şsrl şfed ; pşöa eütd ; işgh ümwe ; ywsş şhih ; frwü hjlü ;
-üsls ösüä ; dşöw odşz ; öütp aäuü ; jylü htkü ; iüyi şzmd ;
-üsda şzäw ; uşta güsb ; ätüt mfüu ; dewş üdln ; awşe snşl ;
-şrfb üzkp ; şhhö şjw ; şoam hüip ; nsüh züwk ; şrdo üidy ;
-dwşr saşk ; müuä öehü ; üzge hşak ; nşfg oeşş ; hüby rhjü ;
-adşk afzü ; uşnn şjso ; rröş şkpj ; ndnü uiüs ; şnm afoş ;
-yeeş şuäü ; üggb doüy ; oukü fnşt ; faoü jkşu ; mşäj şesh ;
-uşed fsşo ; üyjj şübk ; şueb şbkd ; pzöş şyaa ; lkjş ufüä ;
-rkhü lşgl ; ppşl ümsw ; tşmt şwhh ; kürj püzn ; yäüm uömü ;
-bfüf ltüz ; möşo lşlü ; gzül ytşd ; ätşj püd ; würu şlfg ;
-äüeh gäşb ; häüp ygpü ; şzzb üümf ; ügzm ätşn</text>
+    <text>ükjb fnşp ; abhş ddşj ; güg gmäş ; muşj emtş ; kşbl elşy ;
+dşmg hhüw ; oşjy ügmj ; toüu oşey ; jüşs ohüä ; ümoş üänu ;
+üdem oüln ; ydgş uşdw ; ktäü öüüa ; üöpl oşrl ; rşeg ijüe ;
+üüha uzaş ; yşşi üwnz ; gloü zütö ; emyş rşdz ; şhzf eküt ;
+şsşy şylp ; lştn äabü ; üorä eşüy ; hşşo npuü ; sşeö nzüz ;
+üfhf üwli ; üooy şfdw ; öwşe tüur ; yfün ükuh ; şseg fşkö ;
+orşa owäş ; lbşb bsü ; psşl ülwe ; ädüä ewüy ; wkş püuö ;
+zrşä äyşm ; yşnm ütmu ; mjşk eşgb ; efüw şwşm ; ülby llnü ;
+ömüu üiuo ; adbü ümäo ; pşak frşö ; rşfj sşlf ; öwşw şosw ;
+wşoi zäüg ; nşşe wüşö ; bşjg iiyş ; uaüd pşhn ; npüy büyj ;
+eüty nşdl ; muşi ürnf ; ekäş pgäş ; üzoj wdşg ; tywş ansü ;
+şöla şhin ; lüba ägşn ; nşfr aeüi ; şüöi şnlw ; enüf uipş ;
+üyye snşb ; zümz üln ; şeyk föüy ; süşn şslö ; zşsş üzll ;
+tjşh ebşn ; sütk äomş ; übil ühuw ; mwjü jtüä ; başä fdäü ;
+gşfş jüwt ; zgül uşoz ; jşdk hşle ; uüeh uuiş ; şyml emşa ;
+tizü şly ; sgoü mkdş ; ürpy aboş ; lwşw rsşb ; şkäf aüry ;
+şuij obüf ; mdşj fpşz ; thkü şeyb ; şüşe</text>
     </lesson>
     <lesson>
-    <id>{345469bc-4f5d-4c04-bb0c-230198f4c1f8}</id>
-    <title>Lezione 14 - ç ý</title>
+    <id>{179fd114-b30f-4125-856f-9a191f62cb2f}</id>
+    <title>Sapak 14 - ç ý</title>
     <newCharacters>ç ý</newCharacters>
-    <text>zçog njhý çkkh ; üçew fkçş çüsf ; hzgç oýçp ýor ; uluý pbiç
-lçsb ; ýndl agýr ýýet ; ýçkj zlçr býdh ; zçşa sçni lyça ;
-hýaç sýrb ýopk ; ýpzş tlçe jşçh ; örpç içöç nnyç ; htçi mmşý
-äyýý ; npýn býwç gyçe ; ýäta ýadk tüçä ; rzçm maýi zdçj ;
-gçiä ykşý olýi ; älýä jçzz gnýe ; rdeý bçsh yuçm ; eämý içwz
-gzpç ; äçpn wçýü çopr ; äçyh mýäz biýg ; böýe kýtş pyäý ;
-rýpk neýy çtfg ; gşçl şüýn nçş ; çiud gsoý oükç ; çlnj aläý
-çhnb ; oýkö päpý çzaw ; rýzö fääç öüý ; iyöý çged hmfç ;
-löçm wnçw ürýä ; ýute ipýö ohaý ; pýna kçşw fýýş ; yoiç zýuä
-ääçu ; zkpý şçýg ltwý ; omçl çtoü häiý ; uagý ýbir çwöç ;
-öüçh dweý nsçp ; zoçş dýnr ýäab ; çysh hşýö fýrö ; zswç iýçş
-hoçp ; lnç gçşş bşçş ; yoný şçdt kzýp ; çdüs odçw abpý ;
-zöýr fsbç nçlp ; çoöd uýrç üdwç ; üçşü nuoý sipý ; ekçö çzee
-wçrd ; çaşý yuný pönç ; çnçe pçyç bdlý ; husç ahuý ýşaü ;
-hýän mçym ýeýe ; bkçm myjý jlýl ; ýaöý äbço imçg ; äszç löçç
-ýhdm ; ençk lýtj oykç ; ýişk jüuý ýmsç ; afýh fçaj rýüm ;
-fäýt eöçd aiýn ; dýpö smç iüaý ; zjpý ijýü ýize ;</text>
+    <text>töyý çfý ýggş ; çhkz ýfkü aöçr ; ýap lüýg hçä ; äiýn çahü
+çrbr ; ýywf dpýj bslç ; wçrp jddý ýýçç ; weça çsyo şýar ;
+çmro ýhşç jzýh ; kdçç jçgm ýtse ; wähý rçwr ykçý ; şçoa iünç
+sýüä ; twýe graý uaýz ; gýiä üýlf ooüç ; fçnj dýüj züäç ;
+önýo ýuýn ýetk ; çşşç ýpşf şjçg ; rtçd üýüs ydç ; zjçl lbýo
+ýüad ; dpeý uçäo esýr ; ndwç ýhsn fçij ; pçky moký aýfw ;
+ýpao yçjç çjep ; ýýya tupý ýmgg ; çaýg jüeç jlýä ; şýeb zyýb
+hfýe ; çyhä ýöüj lbüç ; ýýsd üýum kçnä ; ýhdk rpýd ytjç ;
+ödçş pjçö azçk ; ýodö koýl weçä ; gýçý çbhl rçut ; gýoa ikýk
+şüçt ; edçö hçöm çrçf ; rçgw kzýb zapý ; wtfç tbký lmçw ;
+çaik dýny oýbk ; ýeph rýýs ýsör ; jbtý ýyoo nmwç ; pürç şlsý
+numý ; ýşgş pçut ýmwa ; yçdi ýýwt ýonz ; düçn ypçl ohný ;
+ogeç ýpän ltşý ; rýdç şhçf mkdç ; uojç wtäç huzç ; jçef gsýb
+ýsdo ; oýaa wwný ýliü ; zhýg ugýd çfgş ; ýgdd çünl ýky ;
+yçuf üäçö aydý ; zemç wçäp ýrpb ; juoý uuýa eepý ; ýwbu uyçm
+szçü ; ýdta pýkt ahýb ; äçdu äsjç ýpzý ; rýrs äýkö piýe ;
+mjký rnýy atýg ; wfýn golç prçe ; ejýy äoeý zýlg ;</text>
     </lesson>
     <lesson>
-    <id>{b7173db3-febf-4977-bb81-d0a59cda0e28}</id>
-    <title>Lezione 15 - ñ ž</title>
-    <newCharacters>ñ ž</newCharacters>
-    <text>mžgd žhsž ; ñtul žlts ; zñiy žkeo ; äžyi kmzž ; dýžp ñjo ;
-ažiö lñuş ; ižiö žzyy ; sžhž ötžz ; aržb enñn ; ñtfm ýžgä ;
-ñhşb ayrž ; bñhj ýzüž ; ýçžr iñzy ; gtrž ñös ; ñrçl ržsd ;
-žýuf ýžpf ; äñüä kuzž ; öemž bñýg ; nržt pfžb ; tñnm krrñ ;
-uefž hñžd ; olžö ortñ ; içñn kžne ; ijdñ şoñh ; siñp ýžök ;
-nhñb žýžf ; ýoñz uskž ; ñüçñ rñşr ; ožhi ñzoç ; puñz ohfñ ;
-žñyi žyja ; şñhä öñpy ; fzžy kñie ; žmzş ñauý ; lžwr wgoñ ;
-ñüwö nžnr ; äjñý añru ; ygñn spfñ ; žgöf ñpçş ; žñäh añwý ;
-ñwfe ñzpj ; žoje çñlh ; žşdr jlbž ; syzñ foañ ; ofžn fžzş ;
-drñü dnzñ ; bzkž añtç ; ažlo wñhs ; žütm däñp ; şñdž euñý ;
-ižfö ädžo ; tfyñ ñhäd ; žibh mhçñ ; äçñe oñeý ; gñbn žmel ;
-çžhy tdaž ; üižş çrñp ; ždöü hžžo ; žäia tibñ ; ññgä ñýmp ;
-ižww ýyžt ; žşwö ýblñ ; uñtj äşpñ ; oñwž tzžb ; nhlž ñth ;
-kžja ñžab ; bryž öžzž ; yjžü üñgs ; žkşş sñbi ; sbuñ bižb ;
-räbñ žoçu ; hkiñ žçks ; hžhl žwui ; ñjyö jçñh ; üsrñ unñü ;
-saüž oñfn ; emoñ zžom ; şžfž ülžo ; ñýpä ržlo ; žihb ñjmj ;
-ýñmt žjzý ; uýýž oçžý ; pažd jže ; ýgñm</text>
+    <id>{9e73ce89-6f11-427f-a9dc-ade9c0c6f008}</id>
+    <title>Sapak 15 - ň ž</title>
+    <newCharacters>ň ž</newCharacters>
+    <text>ažsz oňjg ; ekňh žlýü ; ňžwä žjüy ; srzž öüýž ; äpňm mždr ;
+jçüň jňjb ; žiie rlňe ; jşdň öňsu ; tň mňuü ; üzňç tyžd ;
+öouž eüňe ; ňöza hştň ; sžý bfýž ; lnnž žýpö ; üeňs ydhž ;
+ežln žpoh ; ňrkç nžik ; fälž fruň ; üobň uköň ; mňöä žbbç ;
+žlkş ňýçk ; ňlöp jşçň ; uşyň säžo ; žgçg ždep ; ňhyd äýsž ;
+khňh fňün ; ňööş fbwň ; tňyt oasň ; öhže ňýhn ; žnti fşňä ;
+gşsž ýürž ; žlňş töýž ; lňžd kpňd ; žbyü kpňý ; žgpz žffr ;
+bäkž näfž ; zymň ňläs ; çlžw hbňu ; ňugý zhbň ; žfşy äžyş ;
+güňş kňdü ; ižüý iwuž ; nžşn ňfyy ; wžro ňkez ; jožt itaň ;
+ňöiö žoen ; hžwž ňrkd ; jňfo oýžz ; hžod ždçb ; mžoa pfgž ;
+ňçmr rýlň ; çňrt szňy ; wžžj tňuu ; imsž žnçy ; rçäž ýňtm ;
+wňls pžňs ; äpňi ňhso ; ňçlö žňnt ; däyž žüpf ; ňgdý pgžp ;
+jugň ggžb ; dfrň thňo ; ožgk iöňş ; yröž ňpug ; gzwň şňpn ;
+puňž oňmu ; wşňs žzäm ; aýzň žnrç ; mňjd edtň ; ňärf kyzž ;
+gamž plňý ; ožüe ňaäž ; roňd lňýç ; fžür žite ; pesž žztü ;
+ňzýn şžmn ; bobž iýşň ; tžäf yzmň ; ňaji mwlž ; žprr ňsşa ;
+ňbçl gsžf ; ewmň tžnh ; ňfab jşžž ; sýfž</text>
     </lesson>
 </lessons>
 </course>
