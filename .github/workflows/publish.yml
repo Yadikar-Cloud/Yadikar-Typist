@@ -66,7 +66,7 @@ jobs:
         shell: pwsh
         run: |
           New-Item -ItemType Directory -Force msix-staging | Out-Null
-          Copy-Item src-tauri/target/release/yadikar-typist.exe msix-staging/
+          Copy-Item src-tauri/target/release/app.exe msix-staging/yadikar-typist.exe
           # copy any resources/DLLs your app needs next to the exe, for example:
           # Copy-Item src-tauri/target/release/*.dll msix-staging/
 
