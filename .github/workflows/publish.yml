@@ -62,7 +62,7 @@ jobs:
         shell: pwsh
         run: |
           New-Item -ItemType Directory -Force msix-staging | Out-Null
-          Copy-Item src-tauri/target/release/yadikar-editor.exe msix-staging/
+          Copy-Item src-tauri/target/release/yadikar-typist.exe msix-staging/
           # copy any resources/DLLs your app needs next to the exe, for example:
           # Copy-Item src-tauri/target/release/*.dll msix-staging/
 
@@ -72,7 +72,7 @@ jobs:
         uses: BHznJNs/msix-build@v0.9
         with:
           app-build-path: msix-staging/
-          icon-path: src/assets/image/yadikar-editor-256x256.png
+          icon-path: src/assets/image/yadikar-typist-256x256.png
           appx-manifest-path: AppxManifest.xml
           priconfig-path: priconfig.xml
 
@@ -81,7 +81,7 @@ jobs:
         if: matrix.platform == 'windows-latest'
         shell: pwsh
         run: |
-          $dest = "Yadikar-Editor_${{ steps.tauri.outputs.appVersion }}_x64.msix"
+          $dest = "Yadikar-Typist_${{ steps.tauri.outputs.appVersion }}_x64.msix"
           Copy-Item "${{ steps.msix-build.outputs.msix-path }}" $dest
           "file=$dest" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
 
