@@ -72,7 +72,7 @@ jobs:
         uses: BHznJNs/msix-build@v0.9
         with:
           app-build-path: msix-staging/
-          icon-path: src/assets/image/yadikar-typist-256x256.png
+          icon-path: v2/image/keyboard-256x256.png
           appx-manifest-path: AppxManifest.xml
           priconfig-path: priconfig.xml
 
