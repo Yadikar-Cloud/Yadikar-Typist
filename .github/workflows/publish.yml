@@ -51,6 +51,7 @@ jobs:
         run: chmod +x node_modules/.bin/tauri
 
       - uses: tauri-apps/tauri-action@v0
+        id: tauri
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
